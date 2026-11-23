@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PocketAgenda</string>
+    <string name="titulo_principal">Minha PocketAgenda</string>
+    <string name="btn_abrir_cadastro">Adicionar Novo Compromisso</string>
+    <string name="titulo_cadastro">Novo Compromisso</string>
+    <string name="lista_titulo">Compromissos cadastrados</string>
+    <string name="lista_vazia">Nenhum compromisso cadastrado ainda.</string>
+    <string name="hint_titulo">Título do compromisso</string>
+    <string name="hint_data">Data e horário (ex.: 25/11 às 14h)</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="erro_titulo">Preencha o título do compromisso</string>
+    <string name="erro_data">Preencha a data e o horário</string>
+    <string name="sucesso">Compromisso salvo com sucesso!</string>
+</resources>

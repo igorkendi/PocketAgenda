@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PocketAgenda" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#3D2BD9</item>
+        <item name="colorPrimaryVariant">#2A1CA3</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#3D2BD9</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+    </style>
+    <color name="ic_launcher_background">#3D2BD9</color>
+</resources>
